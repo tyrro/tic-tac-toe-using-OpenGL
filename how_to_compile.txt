@@ -1,0 +1,4 @@
+windows:-lfreeglut -lopengl32 -lglu32 -lwinmm -lgdi32
+
+
+ubuntu:-lglut -lGLU -lGL -lm
